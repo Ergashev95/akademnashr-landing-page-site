@@ -1,2 +1,33 @@
 @import url(./fonts.css);
 
+
+/* GLOBAL STYLES */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/* CONTAINER */
+
+.container {
+    max-width: 1130px; /* 1100 */
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+
+
+
+
+
